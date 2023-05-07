@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+<!-- <?xml-stylesheet type="text/xsl" href="optionstable.xsl"?> -->
 <!-- Menu Items Data for developers -->
 
 <options>
@@ -20,7 +21,7 @@
 	</breakfast>
 	
 	<lunch>
-		<item id="11"> Fish and Chips</item>
+		<item id="11">Fish and Chips</item>
 		<item id="12">Beef Burger</item>
 		<item id="13">Chicken Burger</item>
 		<item id="14">Rice (Side)</item>
