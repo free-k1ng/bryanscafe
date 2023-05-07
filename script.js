@@ -57,3 +57,8 @@ function cardtoggle2() {
   }
   
 }
+
+
+function minimise() {
+	document.getElementById("frame2").style.width = "40%";
+}
