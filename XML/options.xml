@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!DOCTYPE options [
-<!ELEMENT options (coffee, breakfast, lunch, dessert)>
-<!ELEMENT coffee (item, item, item, item, item)>
-<!ELEMENT breakfast (item, item, item, item, item)>
-<!ELEMENT lunch (item, item, item, item, item)>
-<!ELEMENT dessert (item ,item, item, item, item)>
-<!ATTLIST item id CDATA #REQUIRED>
+<!-- Menu Items Data for developers -->
 
 <options>
 	<coffee>
@@ -26,7 +20,7 @@
 	</breakfast>
 	
 	<lunch>
-		<item id="11">Fish and Chips</item>
+		<item id="11"> Fish and Chips</item>
 		<item id="12">Beef Burger</item>
 		<item id="13">Chicken Burger</item>
 		<item id="14">Rice (Side)</item>
