@@ -60,5 +60,5 @@ function cardtoggle2() {
 
 
 function minimise() {
-	document.getElementById("frame2").style.width = "40%";
+	document.getElementById("frame2").style.width = "30%";
 }
