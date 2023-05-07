@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE theme [
+<!ELEMENT theme (art, art, art, art)>
+<!ELEMENT art (bgcolor, boxcolor, accentcolor)>
+<!ATTLIST bgcolor img CDATA #REQUIRED>
+<!ELEMENT bgcolor (#PCDATA)>
+<!ELEMENT boxcolor (#PCDATA)>
+<!ELEMENT accentcolor (#PCDATA)>
+
+]>
+
+<!--Menu Art Data for developers-->
+
+<theme>
+	<art>
+		<bgcolor img="fabric.png">#FC0ABB</bgcolor>
+		<boxcolor>#AA00FF</boxcolor>
+		<accentcolor>#4D0101</accentcolor>
+	</art>
+	
+	<art>
+		<bgcolor img="magic.png"> #00FFF7 </bgcolor>
+		<boxcolor>#0080FF </boxcolor>
+		<accentcolor> #44008C </accentcolor>
+	</art>
+	
+	<art>
+		<bgcolor img="pearl.png">#00FF7F</bgcolor>
+		<boxcolor>#CBFF63</boxcolor>
+		<accentcolor>#769C10</accentcolor>
+	</art>
+	
+	<art>
+		<bgcolor img="light.png">#ECC050</bgcolor>
+		<boxcolor>#FFA44A</boxcolor>
+		<accentcolor>#FF3D5A</accentcolor>
+	</art>
+</theme>
