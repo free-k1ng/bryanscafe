@@ -10,34 +10,34 @@
 
 <options>
 	<coffee>
-		<item id="1"></item>
-		<item id="2"></item>
-		<item id="3"></item>
-		<item id="4"></item>
-		<item id="4"></item>
+		<item id="1">Sunshine Latte</item>
+		<item id="2">Black</item>
+		<item id="3">Cappuccino</item>
+		<item id="4">Mocha</item>
+		<item id="5">Macchiato</item>
 	</coffee>	
 	
 	<breakfast>
-		<item id="5"></item>
-		<item></item>
-		<item></item>
-		<item></item>
-		<item></item>
+		<item id="6">Vegan Wrap</item>
+		<item id="7">Chicken Wrap</item>
+		<item id="8">Garden Salad</item>
+		<item id="9">Fruit Salad</item>
+		<item id="10">Fried Eggs</item>
 	</breakfast>
 	
 	<lunch>
-		<item></item>
-		<item></item>
-		<item></item>
-		<item></item>
-		<item></item>
+		<item id="11">Fish and Chips</item>
+		<item id="12">Beef Burger</item>
+		<item id="13">Chicken Burger</item>
+		<item id="14">Rice (Side)</item>
+		<item id="15">Ramen Noodles</item>
 	</lunch>
 	
 	<dessert>
-		<item></item>
-		<item></item>
-		<item></item>
-		<item></item>
-		<item></item>
+		<item id="16">Tiramisu</item>
+		<item id="17">Chocolate Cake</item>
+		<item id="18">Strawberry Cake</item>
+		<item id="19">Croissant</item>
+		<item id="20">Sorbet</item>
 	</dessert>
 </options>
