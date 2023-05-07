@@ -14,25 +14,25 @@
 
 <theme>
 	<art>
-		<bgcolor img="fabric.png">#FC0ABB</bgcolor>
+		<bgcolor img="https://free-k1ng.github.io/bryanscafe/IMG/fabric.png">#FC0ABB</bgcolor>
 		<boxcolor>#AA00FF</boxcolor>
 		<accentcolor>#4D0101</accentcolor>
 	</art>
 	
 	<art>
-		<bgcolor img="magic.png"> #00FFF7 </bgcolor>
+		<bgcolor img="https://free-k1ng.github.io/bryanscafe/IMG/magic.png"> #00FFF7 </bgcolor>
 		<boxcolor>#0080FF </boxcolor>
 		<accentcolor> #44008C </accentcolor>
 	</art>
 	
 	<art>
-		<bgcolor img="pearl.png">#00FF7F</bgcolor>
+		<bgcolor img="https://free-k1ng.github.io/bryanscafe/IMG/pearl.png">#00FF7F</bgcolor>
 		<boxcolor>#CBFF63</boxcolor>
 		<accentcolor>#769C10</accentcolor>
 	</art>
 	
 	<art>
-		<bgcolor img="light.png">#ECC050</bgcolor>
+		<bgcolor img="https://free-k1ng.github.io/bryanscafe/IMG/light.png">#ECC050</bgcolor>
 		<boxcolor>#FFA44A</boxcolor>
 		<accentcolor>#FF3D5A</accentcolor>
 	</art>
